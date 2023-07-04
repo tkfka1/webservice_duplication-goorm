@@ -15,6 +15,9 @@
 <img width="1459" alt="스크린샷 2023-07-04 오후 2 34 45" src="https://github.com/tkfka1/webservice_duplication-goorm/assets/36651040/36ec75c6-7c68-4d52-98aa-6a1f6e0f5f68">
 
 
+### 인프라
+
+<img width="900" alt="스크린샷 2023-07-04 오후 2 35 44" src="https://github.com/tkfka1/webservice_duplication-goorm/assets/36651040/e57c7ff9-76b4-4161-836a-7dff3d1f1781">
 
 
 ### **구현 목록**
@@ -23,8 +26,6 @@
 - Web 이중화
 - DNS 이중화
 - 로드밸런서 이중화
-
-팀프로젝트로 진행되었으며 팀장으로 팀원들을 이끌었다.
 
 **맡은 역할 및 구현 목록**
 정한교 (팀장)
