@@ -4,7 +4,7 @@
 
 ## 개요
 
-구름 쿠버네티스 양성과정 에서 진행한 프로젝트
+구름 EDU 의 쿠버네티스 양성과정 스터디 기록을 더욱 안전한 서비스로 제공하기 위한 팀프로젝트
 
 쿠버네티스를 배우기 전에 컨테이너 방식이 아닌 VM방식만으로 웹 서비스를 이중화하고 로드밸런서를 적용시켜 고가용성 서비스 인프라를 구축
 
@@ -41,13 +41,25 @@
 **기술문서**를 따로 정리를 하지 않고 PPT 안에 전부 집어넣었는데 따로 문서를 만들어서 정리를 했으면 더욱 보기 좋은 프로젝트가 되었을 것이다.
 
 ### 시연영상
-
+0. 기본web
 https://www.youtube.com/watch?v=f3eAc4fInak&list=PLqqWF8gP3uQb_DOCeLQ0jcJ_yKu1rVpfg&index=1
 
+2. DNS 이중화
 https://www.youtube.com/watch?v=PLl3N2b5Js4&list=PLqqWF8gP3uQb_DOCeLQ0jcJ_yKu1rVpfg&index=2
 
+3. WEB 이중화
 https://www.youtube.com/watch?v=UJ5dtqcm-3s&list=PLqqWF8gP3uQb_DOCeLQ0jcJ_yKu1rVpfg&index=3
 
+4. Load ballancer 이중화(Haproxy)
 https://www.youtube.com/watch?v=mtB3YM5YS-8&list=PLqqWF8gP3uQb_DOCeLQ0jcJ_yKu1rVpfg&index=4
 
 ### 프레젠테이션, 기술문서
+
+[구름 세미프로젝트 뭉게구름조(5조)(프레젠테이션용).pdf](https://github.com/tkfka1/webservice_duplication-goorm/files/11944796/5.pdf)
+
+[구름 세미프로젝트 뭉게구름조(5조)(기술포함).pdf](https://github.com/tkfka1/webservice_duplication-goorm/files/11944797/5.pdf)
+
+
+
+
+
